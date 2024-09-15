@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me - suryansh2000bhd@gmail.com
 - 😄 Pronouns: dev, him and coder
-- ⚡ Fun fact: I am learning since 9th standard in my school.
+- ⚡ Fun fact: I am learning coding since 9th standard in my school.
 
 <!---
 sb-devv/sb-devv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
